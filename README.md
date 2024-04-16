@@ -8,7 +8,7 @@
 
 I'm Kevin Herrarte, a seasoned Full-Stack Web Developer with a strong background in JavaScript, React Native, and TypeScript. My passion for coding and problem-solving has led me to a successful career in software development, where I have held roles such as Software Architect and Software Engineer.
 
-- 🔭 I’m working as an Software Architect building Oracle APEX Applications.
+- 🔭 I’m working as a Software Architect building Oracle APEX Applications.
 - 🌱 I'm currently learning Unity to build mobile videogames.
 - ⚡ In my free time, my wife and I enjoy traveling and discovering new delicious foods.
 
