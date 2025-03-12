@@ -19,7 +19,10 @@ I'm Kevin Herrarte, a seasoned Full-Stack Web Developer with a strong background
 - ⚡ In my free time, my wife and I enjoy traveling and discovering new delicious foods.
 
 
-[![Kscope24](/assets/kscope24-button-speaker.jpg)](https://kscope24.odtug.com/)
+<a href="https://www.odtug.com/kscope25" target="_blank">
+  <img src="assets/kscope25-banner-speaking.jpg" alt="Kscope24">
+</a>
+<!-- [![Kscope24](/assets/kscope25-banner-speaking.jpg)](https://www.odtug.com/kscope25) -->
 
 # 🛠 Language and tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
